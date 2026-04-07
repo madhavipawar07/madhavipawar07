@@ -11,7 +11,7 @@
 - 🎓 I'm a B.Tech Computer Science student (2023-2027)
 - 🌱 Currently diving deep into **React**, **Node.js**, and **Data Structures**
 - 🧠 Solved **100+ DSA problems** across LeetCode, GFG, and others
-- 🗨️ Ask me about **JavaScript**, **React**, **Node.js** — happy to help!
+- 🗨️ Ask me about **JavaScript**, **React**, **Node.js — happy to help!**
 - 💻 Check out all my projects on **[My GitHub](https://github.com/madhavipawar07)**
 - 📬 Reach me at: **madhavippawar2004@gmail.com**
 
@@ -33,26 +33,31 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=c%2B%2B)
 
 ### 🧰 Libraries & Frameworks
-![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=pandas)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat-square&logo=streamlit)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap)
 
 ### 🔧 Tools & Platforms
+![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat-square&logo=power-bi)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visual-studio-code)
 
-### ☁️ Backend & Hosting
+### ☁️ Backend & Database
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-333333?style=flat-square&logo=cloudinary)
 
