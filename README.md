@@ -44,6 +44,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=pandas)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat-square&logo=streamlit)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat-square&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express)
