@@ -51,7 +51,8 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat-square&logo=tailwind-css)
 
 ### 🔧 Tools & Platforms
-![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat-square&logo=power-bi)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat-square&logo=mysql)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat-square&logo=power-bi)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
