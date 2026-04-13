@@ -59,7 +59,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visual-studio-code)
 
 ### ☁️ Backend & Database
-#![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-333333?style=flat-square&logo=cloudinary)
 
