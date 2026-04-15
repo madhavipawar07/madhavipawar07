@@ -9,9 +9,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a B.Tech Computer Science student (2023-2027)
-- 🌱 Currently diving deep into **React**, **Node.js**, and **Data Structures**
-- 🧠 Solved **100+ DSA problems** across LeetCode, GFG, and others
-- 🗨️ Ask me about **JavaScript**, **React**, **Node.js — happy to help!**
+- 🌱 Currently diving deep into **Python**, **MySQL**, and **Data Visualization**
+- 🗨️ Ask me about **Pyton**, **Libraries**, **SQL — happy to help!**
 - 💻 Check out all my projects on **[My GitHub](https://github.com/madhavipawar07)**
 - 📬 Reach me at: **madhavippawar2004@gmail.com**
 
