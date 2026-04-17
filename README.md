@@ -56,6 +56,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visual-studio-code)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-333333?style=flat-square&logo=microsoft-excel)
 
 ### ☁️ Backend & Database
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
