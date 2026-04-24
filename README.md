@@ -10,7 +10,7 @@
 
 - 🎓 I'm a B.Tech Computer Science student (2023-2027)
 - 🌱 Currently diving deep into **Python**, **MySQL**, and **Data Visualization**
-- 🗨️ Ask me about **Pyton**, **Libraries**, **SQL — happy to help!**
+- 🗨️ Ask me about **Python**, **Libraries**, **SQL — happy to help!**
 - 💻 Check out all my projects on **[My GitHub](https://github.com/madhavipawar07)**
 - 📬 Reach me at: **madhavippawar2004@gmail.com**
 
